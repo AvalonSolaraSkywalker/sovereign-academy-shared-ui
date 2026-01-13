@@ -1,0 +1,12 @@
+{
+  "name": "sovereign-academy-shared-ui",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "pnpm storybook",
+    "build": "echo \"sovereign-academy-shared-uibuild placeholder\"",
+    "lint": "echo \"sovereign-academy-shared-ui lint placeholder\"",
+    "test": "echo \"sovereign-academy-shared-ui test placeholder\""
+  },
+  "devDependencies": {}
+}
